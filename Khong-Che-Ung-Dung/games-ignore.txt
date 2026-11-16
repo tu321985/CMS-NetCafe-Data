@@ -1,0 +1,29 @@
+# Process game bo qua khi kiem tra tieu de - CMS NetCafe
+# Moi dong la ten tep exe cua game, KHONG phai ten launcher hay tu khoa chung.
+League of Legends.exe
+VALORANT-Win64-Shipping.exe
+TslGame.exe
+cs2.exe
+csgo.exe
+dota2.exe
+GTA5.exe
+GTA5_Enhanced.exe
+RobloxPlayerBeta.exe
+FortniteClient-Win64-Shipping.exe
+Overwatch.exe
+r5apex.exe
+GenshinImpact.exe
+YuanShen.exe
+StarRail.exe
+ZenlessZoneZero.exe
+cod.exe
+Wow.exe
+Diablo IV.exe
+PathOfExile_x64.exe
+BlackDesert64.exe
+PointBlank.exe
+Audition.exe
+FC24.exe
+FC25.exe
+FC26.exe
+eFootball.exe
