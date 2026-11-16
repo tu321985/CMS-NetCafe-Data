@@ -1,0 +1,3 @@
+# Danh sách tên miền cần khống chế
+# Một dòng một tên miền hoặc nhãn tên miền
+xhamster
