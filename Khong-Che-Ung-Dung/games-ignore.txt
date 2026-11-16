@@ -27,3 +27,15 @@ FC24.exe
 FC25.exe
 FC26.exe
 eFootball.exe
+TheForest.exe
+TheIsleClient-Win64-Shipping.exe
+KillingFloor.exe
+KFGame.exe
+7DaysToDie.exe
+rust.exe
+left4dead2.exe
+NarakaBladepoint.exe
+DeltaForceClient-Win64-Shipping.exe
+UAGame.exe
+ros.exe
+Minecraft.Windows.exe
