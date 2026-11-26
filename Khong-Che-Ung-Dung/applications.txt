@@ -1,75 +1,24 @@
 # Danh sach tieu de ung dung can quan ly - Level 1
-# Server 0.0.0.277: nhap vao Level 1, mac dinh CHUA CAM
-Cheat Engine
-Aimbot
-Wallhack
-ESP Hack
-Hack PUBG
-PUBG Cheat
-Hack Valorant
-Valorant Cheat
-Hack CS2
-CS2 Cheat
-Hack GTA
-GTA Cheat
-Memory Hack
-Game Injector
-DLL Injector
-NetCut
-AnyDesk
-UltraViewer
-TeamViewer
-RustDesk
-1PowerTool
-Process
-IGMP Nuke
-IP Attacher
-B2 DoS
-DDoS
-WinPcap
-ettercap
-UltraVNC
-LiteManager
-AeroAdmin
-Remote
-LogMeIn
-TightVNC
-Weezo first launch
-Ammyy Admin
-188BET
-12bet.com
-M88.com
-166bet
-bet365
-Bodog
-V9BET -
-Fun88 -
-pubg steam hack
+# Mac dinh CHUA CAM; sap xep theo nhom chuc nang. Chu quan can kiem tra truoc khi bat.
+
+# 01. CHONG KILL / TAT AGENT / DONG PHAN MEM TINH TIEN
+Kill CSM Client
+Kill GCafe Client
+Kill Billing Client
+Disable Billing Client
+Stop Billing Client
+Terminate Billing Client
+Kill CMS Agent
+ProcessKO
+KillProcess
+Process Killer
+PCHunter
+
+# 02. HACK GIO CHOI / TIEN GIO / BYPASS TINH TIEN
 Hack csm
 csm hack
 time csm
 Hack time
-pubg hack
-hack battleground
-battleground hack
-Hack Memory
-EagleGet
-
-# Cong cu quan ly tien trinh - Level 1, chua kich hoat
-Task Manager
-Trình quản lý tác vụ
-Resource Monitor
-Process Explorer
-Process Hacker
-System Informer
-Task Manager DeLuxe
-DTaskManager
-AnVir Task Manager
-TaskExplorer
-System Explorer
-Daphne
-
-# Nhan dien cu the cong cu gian lan gio choi / bypass billing - Level 1, mac dinh CHUA CAM
 Hack giờ chơi
 Hack gio choi
 Hack giờ net
@@ -105,15 +54,76 @@ Billing Bypass
 CyberCafe Time Hack
 CyberCafe Billing Hack
 
-# Nhan dien cong cu can thiep / dong billing client, tien trinh - Level 1, mac dinh CHUA CAM
-Kill CSM Client
-Kill GCafe Client
-Kill Billing Client
-Disable Billing Client
-Stop Billing Client
-Terminate Billing Client
-Kill CMS Agent
-ProcessKO
-KillProcess
-Process Killer
-PCHunter
+# 03. HACK GAME / CHEAT / CAN THIEP BO NHO
+Cheat Engine
+Memory Hack
+Hack Memory
+Game Injector
+DLL Injector
+Aimbot
+Wallhack
+ESP Hack
+Hack PUBG
+PUBG Cheat
+pubg hack
+pubg steam hack
+hack battleground
+battleground hack
+Hack Valorant
+Valorant Cheat
+Hack CS2
+CS2 Cheat
+Hack GTA
+GTA Cheat
+
+# 04. CO BAC / CA CUOC
+188BET
+12bet.com
+M88.com
+166bet
+bet365
+Bodog
+V9BET -
+Fun88 -
+
+# 05. DIEU KHIEN MAY TU XA
+AnyDesk
+UltraViewer
+TeamViewer
+RustDesk
+UltraVNC
+LiteManager
+AeroAdmin
+Remote
+LogMeIn
+TightVNC
+Weezo first launch
+Ammyy Admin
+
+# 06. CONG CU MANG / TAT KET NOI / DOS
+NetCut
+IGMP Nuke
+IP Attacher
+B2 DoS
+DDoS
+WinPcap
+ettercap
+
+# 07. QUAN LY TIEN TRINH / HE THONG
+Process
+Task Manager
+Trình quản lý tác vụ
+Resource Monitor
+Process Explorer
+Process Hacker
+System Informer
+Task Manager DeLuxe
+DTaskManager
+AnVir Task Manager
+TaskExplorer
+System Explorer
+Daphne
+
+# 08. CONG CU KHAC - KIEM TRA TRUOC KHI BAT
+1PowerTool
+EagleGet
