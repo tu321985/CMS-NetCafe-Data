@@ -69,3 +69,52 @@ AnVir Task Manager
 TaskExplorer
 System Explorer
 Daphne
+
+# Nhan dien cu the cong cu gian lan gio choi / bypass billing - Level 1, mac dinh CHUA CAM
+Hack giờ chơi
+Hack gio choi
+Hack giờ net
+Hack gio net
+Hack giờ phòng net
+Hack gio phong net
+Hack tiền giờ
+Hack tien gio
+Hack tiền net
+Hack tien net
+Hack tiền phòng net
+Hack tien phong net
+Đóng băng giờ chơi
+Dong bang gio choi
+Tăng giờ chơi
+Tang gio choi
+CSM Hack Time
+CSM Time Hack
+CSM Time Freeze
+CSM Bypass
+GCafe Hack Time
+GCafe Time Hack
+GCafe Time Freeze
+GCafe Bypass
+CMS NetCafe Hack Time
+CMS NetCafe Bypass
+CMS NetCafe Time Freeze
+NetCafe Time Hack
+NetCafe Time Freeze
+NetCafe Billing Bypass
+Billing Time Hack
+Billing Bypass
+CyberCafe Time Hack
+CyberCafe Billing Hack
+
+# Nhan dien cong cu can thiep / dong billing client, tien trinh - Level 1, mac dinh CHUA CAM
+Kill CSM Client
+Kill GCafe Client
+Kill Billing Client
+Disable Billing Client
+Stop Billing Client
+Terminate Billing Client
+Kill CMS Agent
+ProcessKO
+KillProcess
+Process Killer
+PCHunter
