@@ -55,3 +55,17 @@ hack battleground
 battleground hack
 Hack Memory
 EagleGet
+
+# Cong cu quan ly tien trinh - Level 1, chua kich hoat
+Task Manager
+Trình quản lý tác vụ
+Resource Monitor
+Process Explorer
+Process Hacker
+System Informer
+Task Manager DeLuxe
+DTaskManager
+AnVir Task Manager
+TaskExplorer
+System Explorer
+Daphne
