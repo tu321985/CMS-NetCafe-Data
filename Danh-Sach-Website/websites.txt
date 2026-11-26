@@ -607,3 +607,12 @@ gtabase
 gtaboom
 grandtheftwiki
 gtanet
+messenger
+whatsapp
+viber
+teamspeak
+mumble
+stoat
+element
+matrix
+signal
