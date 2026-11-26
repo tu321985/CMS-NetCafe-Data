@@ -616,3 +616,6 @@ stoat
 element
 matrix
 signal
+google
+download
+playbattlegrounds
