@@ -39,3 +39,73 @@ DeltaForceClient-Win64-Shipping.exe
 UAGame.exe
 ros.exe
 Minecraft.Windows.exe
+
+# Bo sung game PC - 2026-11-26
+# FC Online
+fifa4zf.exe
+fczf.exe
+
+# FPS va multiplayer
+r5apex_dx12.exe
+RainbowSix.exe
+RainbowSix_Vulkan.exe
+BF6.exe
+bf2042.exe
+bf1.exe
+bfv.exe
+Marvel-Win64-Shipping.exe
+Discovery-d.exe
+Discovery-e.exe
+RustClient.exe
+deadlock.exe
+Destiny2.exe
+EscapeFromTarkov.exe
+Warframe.x64.exe
+DeadByDaylight-Win64-Shipping.exe
+Titanfall2.exe
+helldivers2.exe
+HaloInfinite.exe
+
+# RPG va game hanh dong
+MonsterHunterWilds.exe
+MonsterHunterWorld.exe
+MonsterHunterRise.exe
+Cyberpunk2077.exe
+HogwartsLegacy.exe
+eldenring.exe
+RDR2.exe
+PathOfExileSteam.exe
+PathOfExile_x64Steam.exe
+PathOfExile2.exe
+LostArk.exe
+Palworld.exe
+Palworld-Win64-Shipping.exe
+HonkaiImpact3.exe
+Once_Human.exe
+Diablo III.exe
+Diablo II Resurrected.exe
+
+# The thao, dua xe va game doi khang
+RocketLeague.exe
+Brawlhalla.exe
+StreetFighter6.exe
+Polaris-Win64-Shipping.exe
+ForzaHorizon4.exe
+ForzaHorizon5.exe
+EuroTruck2.exe
+AssettoCorsa.exe
+
+# Sinh ton va game co-op
+Among Us.exe
+Unturned.exe
+Risk Of Rain 2.exe
+Terraria.exe
+Valheim.exe
+SonsOfTheForest.exe
+ProjectZomboid64.exe
+Phasmophobia.exe
+Lethal Company.exe
+Stardew Valley.exe
+FallGuys_client_game.exe
+PAYDAY2_win32_release.exe
+Payday3Client-Win64-Shipping.exe
